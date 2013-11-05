@@ -1,0 +1,7 @@
+{
+    "name" : "web-worker-example",
+    "version" : "0.1.0",
+    "dependencies" : {
+        "connect" : "2.11.0"
+    }
+}
